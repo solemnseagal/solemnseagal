@@ -1,4 +1,4 @@
-### Hi, I’m @Solemnseagal || Echoda "Solemn" David.
+### Hi, I’m Echoda David.
 
 - 👋 I’m a mobile and web development.
 - 👀 I’m currently learning software engineering at alx-Holberton School.
