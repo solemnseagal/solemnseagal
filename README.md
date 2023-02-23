@@ -1,8 +1,7 @@
 ### Hi, I’m Echoda David.
 
-- 👋 I’m a mobile and web development.
-- 👀 I’m currently learning software engineering at alx-Holberton School.
-- 🌱 I’m looking to collaborate on projects with content creators.
+- 👋 I’m a software developer.
+- 🌱 I’m looking to collaborate on projects with other software development teams.
 - 💞️ Goal: To be the best version of myself.
 - 📫 How to reach me: davidechoda123@gmail.com
 
